@@ -1,2 +1,2 @@
-# simboonlong-github.io
+# simboonlong.github.io
 github pages
