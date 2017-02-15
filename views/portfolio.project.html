@@ -1,0 +1,3 @@
+<div class="project"> <h1 class="project-title">{{ project.title }}</h1> <h2 class="project-short-desc">{{ project.shortDescription }}</h2> <div class="project-full-desc"> <p class="desc-part">{{ project.fullDescription }}</p> <!--
+        <p class="desc-part desc-part-2"></p>
+        --> </div> <ul class="project-image-list"> <li class="project-image-item" ng-repeat="image in project.images"> <img ng-src="{{image.src}}" alt="{{image.title}}"> </li> </ul> </div>
