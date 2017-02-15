@@ -1,0 +1,258 @@
+[
+    {
+        "title" : "Transience",
+        "slug" : "Transience",
+        "categories" : [
+            "illustration",
+            "editorial"
+        ],
+        "shortDescription" : "Time and memory is fascinating.",
+        "fullDescription" : "The time you once lived in becomes a past the next moment. Therefore, change is impermanent. Everything transforms constantly and nothing is static throughout the cycle of life and death. This intangible aspect of fleeting change is the basis of Transience. The project depicts the artist's personal perspective on change in life. It evaluates the idea of impermanence through a series of illustrations with elements of nature as metaphors. The artist believes that by embarking on this personal journey of exploration, she can understand how one can embrace change, leading to greater self-awareness.",
+        "thumbnail" : "images/transience/thumbnail.jpg",
+        "images" : [
+            {
+                "title" : "Mute",
+                "src" : "images/transience/gallery-1.jpg"
+            },
+            {
+                "title" : "Bloom II.",
+                "src" : "images/transience/gallery-2.jpg"
+            },
+            {
+                "title" : "Serene. & Hourglass.",
+                "src" : "images/transience/gallery-3.jpg"
+            }
+        ]
+    },
+    {
+        "title" : "Figments",
+        "slug" : "Figments",
+        "categories" : [
+            "illustration",
+            "editorial",
+            "branding"
+        ],
+        "shortDescription" : "Reality is therefore abandoned.",
+        "fullDescription" : "A fictional brief that calls for a collaboration to create a shop using the beliefs of an artist and an existing shop, for which the designer had chosen Times bookstore and artist Olaf Hajek to create Figments, the books cafe. The result is an identity that uses stories and night tales to create the atmosphere for the cafe. The posters of the cafe uses Chinese poetry to translate the entire mood of the cafe. The illustrations serve as a means to promote the opening and further enhances the meaning behind the logo. The accompanying book explains the beliefs of Olaf Hajek and his works that serves as an inspiration to the whole idea of the cafe. ( p.s. the paintings in the book are original works by Olaf Hajek )",
+        "thumbnail" : "images/figments/thumbnail.jpg",
+        "images" : [
+            {
+                "title" : "Spread 1",
+                "src" : "images/figments/gallery-1.jpg"
+            },
+            {
+                "title" : "Spread 2",
+                "src" : "images/figments/gallery-2.jpg"
+            },
+            {
+                "title" : "Chinese Scroll",
+                "src" : "images/figments/gallery-3.jpg"
+            },
+            {
+                "title" : "Posters",
+                "src" : "images/figments/gallery-4.jpg"
+            }
+        ]
+    },
+    {
+        "title" : "Little Red Hood",
+        "slug" : "Little-Red-Hood",
+        "categories" : [
+            "illustration",
+            "editorial"
+        ],
+        "shortDescription" : "The animal I really dig is the pig.",
+        "fullDescription" : "A school editorial project brief that is based on recreating a fairytale, the designer had chosen Roald Dahl’s poems, the Big Bad Wolf and Three Little Pigs. Combining both classics to create Little Red Hood, the designer created the illustrations to accompany it. The cover of the book is done with a concept of the wolf in the red riding hood’s coat as the story took a different twist at the end. For the different chapters, the starting spread uses hand-drawn type to create the title of that particular chapter.",
+        "thumbnail" : "images/little-red-hood/thumbnail.jpg",
+        "images" : [
+            {
+                "title" : "Spread 1",
+                "src" : "images/little-red-hood/gallery-1.jpg"
+            },
+            {
+                "title" : "Spread 2",
+                "src" : "images/little-red-hood/gallery-2.jpg"
+            },
+            {
+                "title" : "Spread 3",
+                "src" : "images/little-red-hood/gallery-3.jpg"
+            },
+            {
+                "title" : "Spread 4",
+                "src" : "images/little-red-hood/gallery-4.jpg"
+            }
+        ]
+    },
+    {
+        "title" : "Amelie",
+        "slug" : "Amelie",
+        "categories" : [
+            "illustration",
+            "editorial",
+            "motion-clip"
+        ],
+        "shortDescription" : "A surge of love, an urge to help mankind overcomes her.",
+        "fullDescription" : "A motion graphics clip that works as an introductory piece for the French movie, Amelie. The designer uses important elements that appear throughout the whole movie to create the motion piece e.g. the gnome, the picture frames etc… The illustrations were created with the intention to make the clip quirky and light-hearted with the colours being extracted from the movie’s colour scheme.",
+        "thumbnail" : "images/amelie/thumbnail.jpg",
+        "images" : [
+            {
+                "title" : "Screenshot 1",
+                "src" : "images/amelie/gallery-1.jpg"
+            },
+            {
+                "title" : "Screenshot 2",
+                "src" : "images/amelie/gallery-2.jpg"
+            },
+            {
+                "title" : "Screenshot 3",
+                "src" : "images/amelie/gallery-3.jpg"
+            },
+            {
+                "title" : "Screenshot 4",
+                "src" : "images/amelie/gallery-4.jpg"
+            }
+        ]
+    },
+    {
+        "title" : "Bento Cookbook",
+        "slug" : "Bento-Cookbook",
+        "categories" : [
+            "editorial"
+        ],
+        "shortDescription" : "a state of dualistic tension",
+        "fullDescription" : "A bento cookbook done for a school assignment that targets to understand the meaning behind a bento and the true dedication of a Japanese housewife and the motherly love behind such a “simple” meal box. It embraces the core principles which is the foundation of the Japanese Society. The bento concept also embraces the idea of having a well-balanced meal. The design of the whole book uses these principles to create a wholesome identity. ( p.s. the photos in the book were taken from flickr )",
+        "thumbnail" : "images/bento-cookbook/thumbnail.jpg",
+        "images" : [
+            {
+                "title" : "Spread 1",
+                "src" : "images/bento-cookbook/gallery-1.jpg"
+            },
+            {
+                "title" : "Spread 2",
+                "src" : "images/bento-cookbook/gallery-2.jpg"
+            },
+            {
+                "title" : "Spread 3",
+                "src" : "images/bento-cookbook/gallery-3.jpg"
+            },
+            {
+                "title" : "Intro",
+                "src" : "images/bento-cookbook/gallery-4.jpg"
+            }
+        ]
+    },
+    {
+        "title" : "Abstract Magazine",
+        "slug" : "Abstract-Magazine",
+        "categories" : [
+            "editorial"
+        ],
+        "shortDescription" : "Romantic Mathematics",
+        "fullDescription" : "A magazine assignment that talks about design and art, the magazine features interesting artist that inspires us and their thoughts and beliefs in the area of art. The designer had chosen the talented couple, Isabel and Ruben Toledo for the launch issue. The article talks about the couples’ influence and inspirations on each other. The text and images were abstracted from online sources and designed as magazine spreads. The flower motifs were Ruben’s illustrations that were created as repeating motifs to indicate that this is a continuous article.",
+        "thumbnail" : "images/abstract-magazine/thumbnail.jpg",
+        "images" : [
+            {
+                "title" : "Cover",
+                "src" : "images/abstract-magazine/gallery-1.jpg"
+            },
+            {
+                "title" : "Spread 1",
+                "src" : "images/abstract-magazine/gallery-2.jpg"
+            },
+            {
+                "title" : "Spread 2",
+                "src" : "images/abstract-magazine/gallery-3.jpg"
+            },
+            {
+                "title" : "Spread 3",
+                "src" : "images/abstract-magazine/gallery-4.jpg"
+            }
+        ]
+    },
+    {
+        "title" : "Haiku",
+        "slug" : "Haiku",
+        "categories" : [
+            "editorial",
+            "typography"
+        ],
+        "shortDescription" : "burning of a field, rain starts falling, in small drops",
+        "fullDescription" : "A haiku type book that uses a Japanese haiku to create interesting type plays. The english text is translated from the Japanese haiku. The concept uses texture along with simple type to create the ideas of a burning forest with a melancholic mood. Some of the spreads involves burnt or textured paper to mimic the texture of the trees. The book uses experimental type to portray the emotions of the haiku.",
+        "thumbnail" : "images/haiku/thumbnail.jpg",
+        "images" : [
+            {
+                "title" : "Spread 1",
+                "src" : "images/haiku/gallery-1.jpg"
+            },
+            {
+                "title" : "Spread 2",
+                "src" : "images/haiku/gallery-2.jpg"
+            },
+            {
+                "title" : "Spread 3",
+                "src" : "images/haiku/gallery-3.jpg"
+            },
+            {
+                "title" : "Binding",
+                "src" : "images/haiku/gallery-4.jpg"
+            }
+        ]
+    },
+    {
+        "title" : "Cheongsam Revival",
+        "slug" : "Cheongsam-Revival",
+        "categories" : [
+            "illustration",
+            "editorial",
+            "branding"
+        ],
+        "shortDescription" : "The cheongsam is designed to flatter the body shape.",
+        "fullDescription" : "The cheongsam revival is done as a school project that targets on reviving fading traditions. The whole campaign targets at the youths and young adults thus I had chosen fashion illustrations to accompany the information in the booklet along with a simple logo that imitates a cheongsam’s button. Along with a booklet that informs the public of the cheongsam tradition and its history, the designer had created a tote bag, iphone and ipad cheongsam stickers to further appeal to the target audiences.",
+        "thumbnail" : "images/cheongsam-revival/thumbnail.jpg",
+        "images" : [
+            {
+                "title" : "Spread 1",
+                "src" : "images/cheongsam-revival/gallery-1.jpg"
+            },
+            {
+                "title" : "Spread 2",
+                "src" : "images/cheongsam-revival/gallery-2.jpg"
+            },
+            {
+                "title" : "Spread 3",
+                "src" : "images/cheongsam-revival/gallery-3.jpg"
+            },
+            {
+                "title" : "Contents",
+                "src" : "images/cheongsam-revival/gallery-4.jpg"
+            }
+        ]
+    },
+    {
+        "title" : "Kit Kat Tin Box",
+        "slug" : "Kit-Kat-Tin-Box",
+        "categories" : [
+            "illustration",
+            "editorial",
+            "packaging"
+        ],
+        "shortDescription" : "The festive mood of Chinese New Year.",
+        "fullDescription" : "The illustration, commissioned by Kit Kat, creates a design for the Chinese New Year limited edition Kit Kat Tin Box for the 2012 Dragon year. The design shows the dragon mascot opening a box of memories and stickers with the departure of the rabbit year. Using the motifs of stickers and cute icons, the tin-box is aimed at the target audience of kids and parents.",
+        "thumbnail" : "images/kitkat/thumbnail.jpg",
+        "images" : [
+            {
+                "title" : "View 1",
+                "src" : "images/kitkat/gallery-1.jpg"
+            },
+            {
+                "title" : "View 2",
+                "src" : "images/kitkat/gallery-2.jpg"
+            },
+            {
+                "title" : "Cover",
+                "src" : "images/kitkat/gallery-3.jpg"
+            }
+        ]
+    }
+
+]

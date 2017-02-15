@@ -1,0 +1,41 @@
+[
+    {
+        "images" : [
+            {
+                "title" : "kit kat competition",
+                "src" : "images/posts/002-1.jpg"
+            },
+            {
+                "title" : "PUB hoardings",
+                "src" : "images/posts/002-2.jpg"
+            },
+            {
+                "title" : "collaboration with Mr Chia Aik Beng",
+                "src" : "images/posts/002-3.jpg"
+            },
+            {
+                "title" : "doodle",
+                "src" : "images/posts/002-4.jpg"
+            }
+        ],
+        "title" : "Throwback to past works",
+        "fullDescription" : "Some of the past illustrations that I had did.",
+        "day" : "23",
+        "month" : "02",
+        "year" : "2015"
+    },
+    {
+        "images" : [
+            {
+                "title" : "logo",
+                "src" : "images/posts/001-1.jpg"
+            }
+        ],
+        "title" : "First Entry",
+        "fullDescription" : "With a brand new look, for the new 2015!",
+        "day" : "26",
+        "month" : "01",
+        "year" : "2015"
+
+    }
+]
