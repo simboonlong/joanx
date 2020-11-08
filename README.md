@@ -1,4 +1,3 @@
-# simboonlong.github.io
-github pages
+### Joan Chong, Designer
 
-- [joanx.com](http://joanx.com/)
+- portfolio website [joanx.com](http://joanx.com/)
